@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#This is a basic linear regression case study 
 
 
 import pandas as pd
